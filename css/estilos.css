@@ -88,3 +88,11 @@ footer{
     border-radius: 8px;
     margin-top: 20px;
 }
+footer a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    flex: 2;
+
+}
