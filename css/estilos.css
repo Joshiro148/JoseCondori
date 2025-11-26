@@ -66,6 +66,10 @@ article{
     border-radius: 8px;
     box-shadow: 0 2px 5px #022442;
 }
+article ul, ol, dl{
+    padding: 10px;
+    margin: 18px;
+}
 article table{
     background-color: rgb(248, 238, 250);
     border: 2px solid;
