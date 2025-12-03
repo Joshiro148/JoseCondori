@@ -22,7 +22,7 @@ function cambiarFondo(){
     document.getElementById('menu').style.background='#634e4e';
 }
 function cambiodeTexto(){
-    document.getElementById('Subtitulo').textContent="Esto es un texto EMERGENTE";
+    document.getElementById('Minititulo').textContent="Esto es un texto EMERGENTE";
 }
 function fondoAside(){
     document.getElementById('aside').style.background='#34d129ff';
