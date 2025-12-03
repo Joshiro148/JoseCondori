@@ -16,7 +16,7 @@ function cambiarColor(){
     document.getElementById('menu6').style.color="#4fe1fbff";
 }
 function cambiarLogo(){
-    document.getElementById('logo').scr='images/logo senati.jpg';
+    document.getElementById('logo').scr='images/logo antiguo.png';
 }
 function cambiarFondo(){
     document.getElementById('menu').style.background='#634e4e';
