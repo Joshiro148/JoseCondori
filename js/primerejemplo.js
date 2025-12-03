@@ -8,11 +8,16 @@ function feliz(){
 }
 function cambiarColor(){
     document.getElementById('menu').style.color="#634e4e";
-
 }
 function cambiarLogo(){
     document.getElementById('logo').scr='images/logo senati.jpg';
 }
 function cambiarFondo(){
     document.getElementById('menu').style.background='#634e4e';
+}
+function cambiodeTexto(){
+    document.getElementById('Subtitulo').textContent="Esto es un texto EMERGENTE";
+}
+function fondoAside(){
+    document.getElementById('aside').style.background='#34d129ff';
 }
