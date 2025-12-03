@@ -4,7 +4,7 @@ function triste(){
     document.getElementById('carita').src='images/noFilter (1).png';
 }
 function feliz(){
-    document.getElementById('carita').scr='images/noFilter.png';
+    document.getElementById('carita').src='images/noFilter.png';
 }
 function cambiarColor(){
     document.getElementById('menu0').style.color="#634e4e";
@@ -16,7 +16,7 @@ function cambiarColor(){
     document.getElementById('menu6').style.color="#4fe1fbff";
 }
 function cambiarLogo(){
-    document.getElementById('logo').scr='images/logo antiguo.png';
+    document.getElementById('logo').src='images/logo antiguo.png';
 }
 function cambiarFondo(){
     document.getElementById('menu').style.background='#634e4e';
