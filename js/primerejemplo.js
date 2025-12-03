@@ -7,9 +7,12 @@ function feliz(){
     document.getElementById('carita').scr='images/noFilter.png';
 }
 function cambiarColor(){
-    document.getElementById('menu').style.color="yellow";
+    document.getElementById('menu').style.color="#634e4e";
 
 }
-function cambiarLogo(
+function cambiarLogo(){
     document.getElementById('logo').scr='images/logo senati.jpg';
-)
+}
+function cambiarFondo(){
+    document.getElementById('menu').style.background='#634e4e';
+}
