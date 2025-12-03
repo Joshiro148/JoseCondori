@@ -8,3 +8,6 @@ function cambiarColor(){
     document.getElementById('menu').style.color="yellow";
 
 }
+function cambiarLogo(
+    document.getElementById('logo').scr='images/logo senati.jpg';
+)
