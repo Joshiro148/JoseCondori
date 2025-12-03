@@ -7,7 +7,13 @@ function feliz(){
     document.getElementById('carita').scr='images/noFilter.png';
 }
 function cambiarColor(){
-    document.getElementById('menu').style.color="#634e4e";
+    document.getElementById('menu0').style.color="#634e4e";
+    document.getElementById('menu1').style.color="#d92121ff";
+    document.getElementById('menu2').style.color="#9ce19aff";
+    document.getElementById('menu3').style.color="#2c37b1ff";
+    document.getElementById('menu4').style.color="#ab1560ff";
+    document.getElementById('menu5').style.color="#9bea13ff";
+    document.getElementById('menu6').style.color="#4fe1fbff";
 }
 function cambiarLogo(){
     document.getElementById('logo').scr='images/logo senati.jpg';
