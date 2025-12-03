@@ -4,3 +4,7 @@ function triste(){
 function feliz(){
     document.getElementById('carita').scr='images/noFilter.png';
 }
+function cambiarColor(){
+    document.getElementById('menu').style.color="yellow";
+
+}
