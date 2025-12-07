@@ -58,3 +58,10 @@ function agrandartexto(){
     document.getElementById('Minititulo2')font-size: 36px;
     alert("mi otro titulo agrandado")
 }
+function agrandarfooter(){
+    document.getElementById('fo1')font-size: 36px;
+    document.getElementById('fo2')font-size: 36px;
+    document.getElementById('fo3')font-size: 36px;
+    document.getElementById('fo4')font-size: 36px;
+    alert("mi footer agrandado")
+}
