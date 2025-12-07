@@ -34,3 +34,14 @@ function fondoAside(){
     document.getElementById('aside').style.background='#34d129ff';
     alert("Ya puedo cambiar el color de fondo");
 }
+function día(){
+    document.getElementById('canterlot').src='images/e0ca864e0ba9d9f429eb1371b56a0c32.jpg';
+     alert("canterlot de día")
+}
+function noche(){
+    document.getElementById('canterlot').src='images/thumb-1920-210199.jpg';
+     alert("canterlot de noche")
+}
+function cambiarbody(){
+    document.getElementById('body1').style.background='#1ddcf2ff'
+}
