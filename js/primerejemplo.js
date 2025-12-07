@@ -16,6 +16,7 @@ function cambiarColor(){
     document.getElementById('menu4').style.color="#ab1560ff";
     document.getElementById('menu5').style.color="#9bea13ff";
     document.getElementById('menu6').style.color="#4fe1fbff";
+    alert("Elegi estos colores para mis botones");
 }
 function cambiarLogo(){
     document.getElementById('logo').src='images/logo antiguo.png';
