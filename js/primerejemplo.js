@@ -55,13 +55,13 @@ function cambiarfooter(){
     alert("color amarillo para mi footer")
 }
 function agrandartexto(){
-    document.getElementById('Minititulo2')font-size: 36px;
+    document.getElementById('Minititulo2').style.fontSize = "50px";
     alert("mi otro titulo agrandado")
 }
 function agrandarfooter(){
-    document.getElementById('fo1')font-size: 36px;
-    document.getElementById('fo2')font-size: 36px;
-    document.getElementById('fo3')font-size: 36px;
-    document.getElementById('fo4')font-size: 36px;
+    document.getElementById('fo1').style.fontSize = "50px";
+    document.getElementById('fo2').style.fontSize = "50px";
+    document.getElementById('fo3').style.fontSize = "50px";
+    document.getElementById('fo4').style.fontSize = "50px";
     alert("mi footer agrandado")
 }
