@@ -2,9 +2,11 @@ console.log("Hola Mundo");
 alert("Hola Mundo, esto es un alert");
 function triste(){
     document.getElementById('carita').src='images/noFilter (1).png';
+    alert("la carita triste de roblox");
 }
 function feliz(){
     document.getElementById('carita').src='images/noFilter.png';
+    alert("Medio roblox tiene esa cara");
 }
 function cambiarColor(){
     document.getElementById('menu0').style.color="#634e4e";
@@ -17,13 +19,17 @@ function cambiarColor(){
 }
 function cambiarLogo(){
     document.getElementById('logo').src='images/logo antiguo.png';
+    alert("Este es el logo antiguo del Senati");
 }
 function cambiarFondo(){
     document.getElementById('menu').style.background='#634e4e';
+    alert("Color marrón, me gusta");
 }
 function cambiodeTexto(){
     document.getElementById('Minititulo').textContent="Esto es un texto EMERGENTE";
+    alert("Viste que puedo poner texto ahí");
 }
 function fondoAside(){
     document.getElementById('aside').style.background='#34d129ff';
+    alert("Ya puedo cambiar el color de fondo");
 }
