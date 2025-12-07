@@ -65,3 +65,7 @@ function agrandarfooter(){
     document.getElementById('fo4').style.fontSize = "50px";
     alert("mi footer agrandado")
 }
+function agrandarimagen(){
+    document.getElementById('canterlot').style.width = "800px";
+    alert("imagen agrandada")
+}
