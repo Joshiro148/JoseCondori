@@ -54,3 +54,7 @@ function cambiarfooter(){
     document.getElementById('footer1').style.background='#f3e22eff'
     alert("color amarillo para mi footer")
 }
+function agrandartexto(){
+    document.getElementById('Minititulo2')font-size: 36px;
+    alert("mi otro titulo agrandado")
+}
