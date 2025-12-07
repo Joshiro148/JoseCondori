@@ -36,12 +36,21 @@ function fondoAside(){
 }
 function día(){
     document.getElementById('canterlot').src='images/e0ca864e0ba9d9f429eb1371b56a0c32.jpg';
-     alert("canterlot de día")
+    alert("canterlot de día")
 }
 function noche(){
     document.getElementById('canterlot').src='images/thumb-1920-210199.jpg';
-     alert("canterlot de noche")
+    alert("canterlot de noche")
 }
 function cambiarbody(){
-    document.getElementById('body1').style.background='#1ddcf2ff'
+    document.getElementById('body1').style.background='#1ddcf2ff';
+    alert("fondo color celeste")
+}
+function cambiararticle(){
+    document.getElementById('article2').style.background='#d742d7ff';
+    alert("color rosa para article")
+}
+function cambiarfooter(){
+    document.getElementById('footer1').style.background='#f3e22eff'
+    alert("color amarillo para mi footer")
 }
